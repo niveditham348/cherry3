@@ -1,0 +1,20 @@
+ body {
+    background-color:rgb(136, 124, 124);
+ }
+.container {
+   background-color:blueviolet;
+}
+    
+    
+    .display-5{
+      background-color: beige;
+      
+    }
+
+    .display-6{
+      background-color: blueviolet;
+    }
+
+    .profile-img{
+      border-radius: 100%;
+    }
